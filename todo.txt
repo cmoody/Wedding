@@ -1,0 +1,66 @@
+http://the-pittmans.com/
+
+- Get photos
+- Write content
+- Design site map (Who, What, Where, When)
+	o THE COUPLE (Him/Her Bios)
+	o PROPOSAL
+	o RSVP 
+	o WEDDING DETAILS
+	o REGISTRY
+- Hover over image states
+- Gallery plugin
+- Maybe preloader coolness to load larger images
+- Google Maps Stuff
+- Look at Google Fonts
+- Create Logo
+- Use the VW Bus Image
+
+
+== Maybe use simple slideup down for navigation instead of implementing backbone
+
+// Maybe done worry about states of url
+
+
+
+
+<!-- <div class="container proposal">
+			<div class="row">
+				<div class="span12">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim dolor, malesuada aliquam mattis non, semper et libero. Pellentesque sit amet velit orci. Donec interdum commodo varius. Etiam et consectetur purus. Phasellus ipsum magna, malesuada lacinia faucibus non, malesuada nec sem. Nulla vel tellus justo, sit amet sodales nulla. Sed vitae consectetur mi. Maecenas id orci eu leo dignissim molestie. In bibendum convallis est vitae viverra. Praesent non elementum mi.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="container rsvp">
+			<div class="row">
+				<div class="span12">
+					<h1>RSVP</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim dolor, malesuada aliquam mattis non, semper et libero. Pellentesque sit amet velit orci. Donec interdum commodo varius. Etiam et consectetur purus. Phasellus ipsum magna, malesuada lacinia faucibus non, malesuada nec sem. Nulla vel tellus justo, sit amet sodales nulla. Sed vitae consectetur mi. Maecenas id orci eu leo dignissim molestie. In bibendum convallis est vitae viverra. Praesent non elementum mi.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="container details">
+			<div class="row">
+				<div class="span3">
+					<h1>When/Where</h1>
+				</div>
+				<div class="span5">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim dolor, malesuada aliquam mattis non, semper et libero. Pellentesque sit amet velit orci. Donec interdum commodo varius. Etiam et consectetur purus. Phasellus ipsum magna, malesuada lacinia faucibus non, malesuada nec sem. Nulla vel tellus justo, sit amet sodales nulla. Sed vitae consectetur mi. Maecenas id orci eu leo dignissim molestie. In bibendum convallis est vitae viverra. Praesent non elementum mi.</p>
+				</div>
+				<div class="span4">
+					<img src="http://maps.googleapis.com/maps/api/staticmap?center=615 Cardinal Ln, Austin, TX‎&zoom=13&size=600x300&maptype=roadmap
+&markers=color:blue%7Clabel:A%7C615 Cardinal Ln, Austin, TX‎&sensor=false"/>
+				</div>
+			</div>
+		</div>
+
+		<div class="container registry">
+			<div class="row">
+				<div class="span12">
+					<h1>Registry</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim dolor, malesuada aliquam mattis non, semper et libero. Pellentesque sit amet velit orci. Donec interdum commodo varius. Etiam et consectetur purus. Phasellus ipsum magna, malesuada lacinia faucibus non, malesuada nec sem. Nulla vel tellus justo, sit amet sodales nulla. Sed vitae consectetur mi. Maecenas id orci eu leo dignissim molestie. In bibendum convallis est vitae viverra. Praesent non elementum mi.</p>
+				</div>
+			</div>
+		</div> -->

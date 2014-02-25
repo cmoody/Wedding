@@ -1,0 +1,128 @@
+body {
+	background-color: #f6f6f6;
+	font-family: Arial,sans-serif;
+}
+
+hr {
+	border-bottom: 1px solid #aaaaaa;
+	margin: 40px 0;
+}
+
+.row {
+	margin-bottom: 50px;
+}
+
+.jumbotron {
+	max-width: 100%;
+	width:100%;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+	img {
+		width:100%;
+		max-width: 100%;
+		z-index:-9999;
+	}
+}
+
+nav {
+	background-image: url('../img/zag.png');
+	background-repeat: repeat-x;
+	margin-top: 30px;
+	ul {
+		list-style-type: none;
+		text-align: center;
+		li {
+			background-color: #f6f6f6;
+			font-size: 26px;
+			display: inline;
+			padding: 10px;
+			a {
+				&:hover {
+					text-decoration: none;
+					border-bottom: 4px solid #000;
+				}
+			}
+		}
+	}
+}
+
+h1 {
+	font-size: 20.5px;
+}
+h2 {
+	font-size: 18.5px;
+}
+
+footer {
+	p {
+  		text-align: center;
+  	}
+}
+
+//*******************
+//	Couple Page
+//*******************
+.call-to-action {
+	background-color: #f6f6f6;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+	padding: 30px;
+}
+.countdown {
+	background-color: #68bca5;
+	color: #fff;
+	text-align: center;
+	-webkit-transition: background-color .25s ease-in;
+	   -moz-transition: background-color .25s ease-in;
+   		 -o-transition: background-color .25s ease-in;
+    		transition: background-color .25s ease-in;
+    p {
+    	border-bottom: 5px solid #fff;
+    	padding: 10px 0;
+    }
+	&:hover {
+		background-color: #cbd500;
+	}
+}
+#cntdwn {
+	h1 {
+		font-size: 48px;
+	}
+}
+
+.profile {
+	.him, .her {
+
+	}
+	img {
+		width:100%;
+		max-width: 100%;
+	}
+}
+
+.gallery {
+	img {
+		margin-bottom: 30px;
+	}
+}
+
+.details {
+	a {
+		img {
+			border: 1px solid #dedede;
+			padding: 10px;
+		}
+	}
+	.map {
+		border: 1px solid #dedede;
+		padding: 10px;
+	}
+}
+
+.rsvp {
+	h1 {
+		font-family: 'Alex Brush', cursive;
+		text-align: center;
+		font-size: 72px;
+	}
+}
